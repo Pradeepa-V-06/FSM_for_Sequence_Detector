@@ -269,8 +269,5 @@ endmodule
  Output Waveform
  <img width="900" height="846" alt="image" src="https://github.com/user-attachments/assets/45edfcd4-3bac-4c2e-bfcf-1d15cae1c17c" />
 
-
 # Conclusion 
 The Mealy and Moore state machine for sequence 1011 was designed and successfully simulated using Verilog HDL. The testbench verified both the write and read functionalities by simulating the sequence operations and observing the output waveforms.
-
-
